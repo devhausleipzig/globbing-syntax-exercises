@@ -1,0 +1,41 @@
+# This is a comment line.
+# Add your solution where indicated
+# Make sure to comment out your solution for an exercise before moving on to the next exercise
+
+##########
+# Exercise 1: Ignore all files in root/1/ that are three letters, and start and end with an 'm'.
+
+
+# Add solution above
+##########
+
+##########
+# Exercise 2: Ignore all files in root/1/ that are three letters, and start and end with an 'm', and that have a vowel as a middle letter.
+
+
+# Add solution above
+##########
+
+##########
+# Ignore all files in root/2/ that follow the pattern 'file##', where '#' stands for a digit, but exclude 'file13'
+
+# Add solution above
+##########
+
+##########
+# Ignore all files in root/3/ that have the file extension '.js'
+
+# Add solution above
+##########
+
+##########
+# Ignore all files in root/3/ except 'package.json' and 'package-lock.json'
+
+# Add solution above
+##########
+
+##########
+# Add an exception to the ignore glob for 'superSecretNaughtyPhotoOfDan.jpg'. WHATEVER YOU DO, DON'T LOOK AT IT!
+
+# Add solution above
+##########
